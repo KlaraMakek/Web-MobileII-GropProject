@@ -1,0 +1,229 @@
+/** FONT(S) **/
+@import url("https://fonts.googleapis.com/css?family=EB+Garamond:400,500|Roboto:400,700");
+
+/** LINKED CSS FILES **/
+@import "./navbar.css";
+@import "./buttons.css";
+
+:root {
+  --palette-bg-light: #ffffff;
+  --palette-main-clr: #011fde;
+  --palette-border-clr: #c3c3c3;
+  --palette-gradient-clr: #f4f4f4;
+}
+
+/**** GLOBAL STYLING ****/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+  background-color: var(--palette-main-clr);
+  font-family: "acumin-variable", sans-serif;
+  font-variation-settings: "slnt" 0, "wdth" 100, "wght" 300;
+}
+body {
+  background-color: #f7f6f6;
+  position: relative;
+  background-color: var(--palette-main-light);
+}
+hr {
+  width: 80%;
+}
+h1,
+h2 {
+  text-align: center;
+  color: var(--palette-bg-light);
+}
+
+h1 {
+  font-size: 2.325rem;
+  font: Georgia, Serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-bottom: 1.8px solid var(--palette-border-clr);
+  padding: 1rem 0;
+}
+
+h2,
+h3 {
+  font-family: "EB Garamond", serif;
+  text-align: start;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+blockquote {
+  font-style: italic;
+  text-align: center;
+  width: 40rem;
+  height: auto;
+  max-width: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+li {
+  list-style-type: decimal;
+  text-align: start;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  line-height: 2em;
+  text-align: start;
+  background-color: var(--palette-bg-light);
+}
+figure {
+  padding: 0;
+  margin: 0;
+}
+figcaption {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 12px;
+}
+
+footer {
+  height: 2rem;
+  position: fixed;
+  display: grid;
+  grid-template-columns: auto 49.8%;
+  justify-content: center;
+  align-items: center;
+  width: 99.6%;
+  bottom: 0;
+  margin-top: 5rem;
+  justify-content: space-between;
+  font-weight: 700;
+  font-style: normal;
+  background-color: var(--palette-main-clr);
+  color: white !important;
+  border: 1px solid var(--palette-border-clr);
+  z-index: 1;
+}
+
+table,
+th {
+  margin: auto;
+  border-spacing: 1rem;
+  text-align: start;
+}
+
+li a {
+  white-space: normal;
+  float: left;
+  width: 100%;
+  height: auto;
+  word-wrap: break-word;
+}
+
+.main-container {
+  margin: auto;
+}
+
+.page-layout {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.page-layout .main-side {
+  background-color: var(--palette-main-clr);
+  color: var(--palette-bg-light);
+  padding: 1rem;
+  line-height: 2rem !important;
+}
+
+.page-layout .secondary-side {
+  background-color: var(--palette-bg-light) !important;
+  padding: 1rem;
+}
+
+.page-layout .secondary-side h2 {
+  color: var(--palette-main-clr) !important;
+}
+
+.container {
+  margin: auto;
+  width: 90%;
+  height: auto;
+  min-height: auto;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.footLog {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  color: #011fde;
+}
+
+.brdCrmbTrl {
+  color: var(--palette-bg-light) !important;
+  padding-left: 20px;
+  margin-left: 149px;
+  border-left: 1px solid white;
+}
+
+.brdCrmbTrl a {
+  color: var(--palette-bg-light);
+}
+
+#page-wrap {
+  width: 500px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+#quiz input {
+  vertical-align: middle;
+}
+
+#quiz ol {
+  margin: 0 0 10px 20px;
+}
+
+#quiz ol li {
+  margin: 0 0 20px 0;
+}
+
+#quiz ol li div {
+  padding: 4px 0;
+}
+
+#quiz h3 {
+  font-size: 17px;
+  margin: 0 0 1px 0;
+  color: #666;
+}
+
+#results {
+  font: 44px Georgia, Serif;
+}
