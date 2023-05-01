@@ -47,13 +47,13 @@
                 <a href="./installation.php">Installation</a>
                 <ul class="dropdown">
                     <li class="btn-gray">
-                        <a href="#">Install Linux on Windows</a>
+                        <a href=instalWindows.php">Install Linux on Windows</a>
                     </li>
                     <li class="btn-gray">
-                        <a href="#">Bootable Linux USB</a>
+                        <a href="bootable.php">Bootable Linux USB</a>
                     </li>
                     <li class="btn-gray">
-                        <a href="#">Install App on Linux OS</a>
+                        <a href="fromUsb.php">Install Linux from USB</a>
                     </li>
                     <li class="btn-gray">
                         <a href="#">Ubuntu Software Center</a>
