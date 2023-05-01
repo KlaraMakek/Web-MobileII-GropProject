@@ -56,13 +56,13 @@
                         <a href="fromUsb.php">Install Linux from USB</a>
                     </li>
                     <li class="btn-gray">
-                        <a href="#">Ubuntu Software Center</a>
+                        <a href="ubuntuSow.php">Ubuntu Software Center</a>
                     </li>
                     <li class="btn-gray">
-                        <a href="#">APT Installation</a>
+                        <a href="apaInstalo.php">APT Installation</a>
                     </li>
                     <li class="btn-gray">
-                        <a href="#">Synaptic Package Manager</a>
+                        <a href="synaptic.php">Synaptic Package Manager</a>
                     </li>
                 </ul>
             </li>
