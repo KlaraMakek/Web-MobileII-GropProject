@@ -18,6 +18,7 @@ include $path."assets/inc/header.php";
         <li>Then select Use a Device.</li>
         <li>Look for your device in the list. If your drive isn't listed, select EFI USB Device, then select your drive
             from the next screen.</li>
+            <img src="assets\img\biosLinux.jpg" alt="Bios.">
         <li>Linux will now boot up on your computer. If your computer restarts Windows, there was either a problem with
             your drive or you may need to change BIOS settings.</li>
         <li>Choose Install Linux. Some distributions also allow you to test the OS before installing it.</li>

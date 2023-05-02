@@ -47,7 +47,7 @@
                 <a href="./installation.php">Installation</a>
                 <ul class="dropdown">
                     <li class="btn-gray">
-                        <a href=instalWindows.php">Install Linux on Windows</a>
+                        <a href="instalWindows.php">Install Linux on Windows</a>
                     </li>
                     <li class="btn-gray">
                         <a href="bootable.php">Bootable Linux USB</a>
@@ -72,23 +72,12 @@
                 <ul class="dropdown">
                     <li class="btn-gray dropdownlist ">
                         <a href="./tutorials.php">Unix</a>
-                        <ul class="dropdown">
-                            <li class="btn-gray">
-                                <a href="./tutorials.php">Example1</a>
-                            </li>
-                            <li class="btn-gray">
-                                <a href="./tutorials.php">Example2</a>
-                            </li>
-                        </ul>
                     </li>
                     <li class="btn-gray dropdownlist">
                         <a href="./tutorials.php">Linux</a>
                         <ul class="dropdown">
                             <li class="btn-gray">
                                 <a href="./tutorials.php">Example1</a>
-                            </li>
-                            <li class="btn-gray">
-                                <a href="./tutorials.php">Example2</a>
                             </li>
                         </ul>
                     </li>

@@ -13,6 +13,7 @@ include $path . "assets/inc/header.php";
         <li>Below is a typical screenshot of the Ubuntu software center's GUI. The top bar contains four main buttons:
             On the far left, there is a search option for software packages. The three buttons in the center of the
             screen allow you to search for new software, view installed software, and check for software updates.</li>
+            <img src="assets\img\UbuntuSoftwareCenter.jpg" alt="Ubuntu software center.">
         <li>It is simple to install software from the Ubuntu software center. Choose the package you want to install and
             then press the install button.</li>
     </ul>

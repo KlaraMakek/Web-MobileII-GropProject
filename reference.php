@@ -1,7 +1,7 @@
 <?php
 $path = "./";
 $page = "References";
-include $path."assets/inc/header.php";
+include $path . "assets/inc/header.php";
 ?>
 <h1>References</h1>
 <div class="page-layout">
@@ -53,7 +53,8 @@ include $path."assets/inc/header.php";
                 <li>Ravi Saive. (2022, February 7). What is Linux and Why Linux is So Popular? Tecmint. Retrieved from
                     <a href="https://www.tecmint.com/what-is-linux/
 ">https://www.tecmint.com/what-is-linux/
-                    </a></li>
+                    </a>
+                </li>
                 <li>TrueList. (2022, January 27). Linux Statistics: Market Share, Users, Distributions. TrueList.
                     Retrieved
                     from
@@ -67,10 +68,18 @@ include $path."assets/inc/header.php";
                 <li>HelloTech. (n.d.). How to Install Linux on Windows 10. HelloTech. Retrieved from <a href="https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10
 ">https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10
                     </a></li>
+
+                <li>Unknown. (n.d.). USC Ubuntu 16.04 [Screenshot]. Retrieved May 2, 2023, from <a
+                        href="https://3.bp.blogspot.com/-o2GBmgR14nQ/VwZ62lKLyUI/AAAAAAAAKA0/WxNb3d1Q10IT02VZR0KH5mYa0HszRKkKA/s1600/usc-ubuntu-1604.png">https://3.bp.blogspot.com/-o2GBmgR14nQ/VwZ62lKLyUI/AAAAAAAAKA0/WxNb3d1Q10IT02VZR0KH5mYa0HszRKkKA/s1600/usc-ubuntu-1604.png</a>
+                </li>
+                <li>Unknown. (2021, April 19). Comando APT Linux [Screenshot]. SoftZone. Retrieved May 2, 2023, from <a href="https://www.softzone.es/app/uploads-softzone.es/2021/04/Comando-APT-Linux-3.jpg">https://www.softzone.es/app/uploads-softzone.es/2021/04/Comando-APT-Linux-3.jpg</a></li>
+                <li>Unknown. (n.d.). Synaptic Package Manager on Ubuntu 16.04 [Screenshot]. TecMint. Retrieved May 2, 2023, from <a href="https://www.tecmint.com/wp-content/uploads/2016/03/Synaptic-Package-Manager-on-Ubuntu-16.04.png">https://www.tecmint.com/wp-content/uploads/2016/03/Synaptic-Package-Manager-on-Ubuntu-16.04.png</a></li>
+
+                <li>Damien. (2019, October 3). How to Install and Use Synaptic Package Manager on Linux. Make Tech Easier. Retrieved May 2, 2023, from <a href="https://www.maketecheasier.com/install-use-synaptic-package-manager-linux/">https://www.maketecheasier.com/install-use-synaptic-package-manager-linux/</a></li>
             </ul>
         </div>
     </div>
 </div>
 <?php
-include $path."assets/inc/footer.php";
+include $path . "assets/inc/footer.php";
 ?>
