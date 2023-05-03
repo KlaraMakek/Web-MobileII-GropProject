@@ -1,7 +1,7 @@
 <?php
 $path = "./";
 $page = "About";
-include $path."assets/inc/header.php";
+include $path . "assets/inc/header.php";
 ?>
 <h1>About</h1>
 <div class="container">
@@ -11,6 +11,7 @@ include $path."assets/inc/header.php";
         establishes connections between all of your software and the working physical resources by sitting in between
         applications and hardware.
     </p>
+    <img src="assets\img\linuxImg3.png" alt="Linux Image.">
     <h2>How does Linux work</h2>
     <p>The kernel is at the heart of every Linux system. The kernel distinguishes Linux from other operating systems. It
         is the heart of the operating system, serving as a link between user-level applications and the underlying
@@ -19,11 +20,12 @@ include $path."assets/inc/header.php";
         It allows software to communicate with the underlying physical hardware. All running processes, memory, files,
         and so on are managed by the kernel. In a nutshell, the kernel is responsible for the following:
 
-        Memory Management - The kernel keeps track of the memory used by the system's various applications.
-        Device Management - It also manages various system-connected devices such as input and output devices.
-        Process Management - The kernel manages running processes in order to avoid conflicts and deadlocks and to
+        <b>Memory Management</b> - The kernel keeps track of the memory used by the system's various applications.
+        <b>Device Management</b> - It also manages various system-connected devices such as input and output devices.
+        <b>Process Management</b> - The kernel manages running processes in order to avoid conflicts and deadlocks and
+        to
         ensure that the system runs smoothly.
-        System calls and security - The kernel receives and handles service requests from processes. [2]
+        <b>System calls and security</b> - The kernel receives and handles service requests from processes. [2]
 
         As previously stated, the kernel sits directly between user processes and the underlying hardware, which
         includes RAM, CPU, I/O devices, storage, graphics, and networking.
@@ -39,12 +41,13 @@ include $path."assets/inc/header.php";
 
         Modern graphical Linux distributions such as Debian, Ubuntu, Fedora, Rocky, and AlmaLinux include a desktop
         environment by default. In contrast to the command line interface, which requires a high skill set to use, it
-        improves user interaction and allows users to easily manage the system.
+        improves user interaction and allows users to easily manage the system. </p>
 
+    <p> <img src="assets\img\linuxImg4.png" alt="Linux Image.">
         FUN FACT: There are currently over 600 active Linux distributions. Another 500 are in the works, forming a
         complex living system that is constantly upgraded and expanded. According to Linux distribution usage
         statistics, the most popular are Debian, Gentoo, Ubuntu, Linux Mint, Red Hat Enterprise Linux, CentOS, Fedora,
-        Kali Linux, Arch Linux, and OpenSUSE. [4]
+        Kali Linux, Arch Linux, and OpenSUSE.
     </p>
     <h2>Linux and Open Source</h2>
     <p>In 1991, the first version of the Linux operating system for the general public was made available. The GNU
@@ -67,8 +70,10 @@ include $path."assets/inc/header.php";
         distributions.
 
         Oracle Linux, Red Hat Enterprise Linux (RHEL), and SUSE Enterprise Server are commercial distributions (SLES).
+    </p>
 
-        Ubuntu is the best option when looking for a Linux distribution that is user- and learner-friendly. It is a
+    <img src="assets\img\linuxImg5.png" alt="Linux Image.">
+    <p> Ubuntu is the best option when looking for a Linux distribution that is user- and learner-friendly. It is a
         completely free and open-source distribution with an intuitive and user-friendly interface that provides a
         seamless user experience.
 
@@ -87,7 +92,9 @@ include $path."assets/inc/header.php";
         Due to their excellent performance, remarkable stability, and security, they are regarded as ideal. Ubuntu
         Studio and Fedora Design Suite are useful tools for artists, content creators, and multimedia content producers.
     </p>
+
+    <img src="assets\img\linuxImg6.png" alt="Linux Image.">
 </div>
 <?php
-include $path."assets/inc/footer.php";
+include $path . "assets/inc/footer.php";
 ?>

@@ -10,13 +10,13 @@ include $path."assets/inc/header.php";
         <li>Start typing in the Windows Search Bar. This is the magnifying glass-shaped icon in your screen's
             bottom-left corner.</li>
         <li>Then, in the search bar, type "DISKMGMT.MSC" and press enter.</li>
-        <img src="assets\img\windows.jpg" alt="Sc of DISKMGMT.MSC">
+        <img src="assets\img\windows.png" alt="Sc of DISKMGMT.MSC">
         <li>Select Shrink Volume from the context menu of your primary hard drive. If you have more than one drive,
             select the one labeled Primary Partition. This is commonly referred to as the C: drive.</li>
-            <img src="assets\img\shrink-volume.jpg" alt="Srink Volume app.">
+            <img src="assets\img\shrink-volume.png" alt="Srink Volume app.">
         <li>Then select how much you want to reduce the size of your drive. For Linux, it is advised that you set aside
             at least 20GB (20,000MB).</li>
-            <img src="assets\img\shrink-drive-by.jpg" alt="Shrink Drive By image.">
+            <img src="assets\img\shrink-drive-by.png" alt="Shrink Drive By image.">
         <li>Press the Shrink button. Writing a Linux Distro onto a USB thumb drive or external drive 4GB or larger is
             required once you have a designated space to install Linux. </li>
     </ul>

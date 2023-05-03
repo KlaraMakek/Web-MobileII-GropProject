@@ -33,13 +33,13 @@
                 <a href="./securityLinux.php">Security</a>
                 <ul class="dropdown">
                     <li class="btn-gray">
-                        <a href#">Linux Security Principles</a>
+                        <a href="LinuxSecurityPrinciples.php">Linux Security Principles</a>
                     </li>
                     <li class="btn-gray">
-                        <a href="#">Security Requirements</a>
+                        <a href="SecurityRequirements.php">Security Requirements</a>
                     </li>
                     <li class="btn-gray">
-                        <a href="#">Enemy</a>
+                        <a href="enemySecurty.php">Enemy</a>
                     </li>
                 </ul>
             </li>
@@ -71,15 +71,10 @@
                 <a href="./tutorials.php">Tutorials</a>
                 <ul class="dropdown">
                     <li class="btn-gray dropdownlist ">
-                        <a href="./tutorials.php">Unix</a>
+                        <a href="unixTut.php">Unix</a>
                     </li>
                     <li class="btn-gray dropdownlist">
-                        <a href="./tutorials.php">Linux</a>
-                        <ul class="dropdown">
-                            <li class="btn-gray">
-                                <a href="./tutorials.php">Example1</a>
-                            </li>
-                        </ul>
+                        <a href="linuxTut.php">Linux</a>
                     </li>
                 </ul>
             </li>

@@ -17,7 +17,7 @@ include $path . "assets/inc/header.php";
     <p>If you do not have synaptic installed on
         your computer, run the following command to install it. ‘$sudo apt-get install synaptic’
     </p>
-    <img src="assets\img\Synaptic-Package-Manage.jpg" alt="Synaptic Package Manager">
+    <img src="assets\img\Synaptic-Package-Manage.png" alt="Synaptic Package Manager">
 </div>
 <?php
 include $path . "assets/inc/footer.php";

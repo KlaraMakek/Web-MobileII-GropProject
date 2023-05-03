@@ -20,6 +20,7 @@
   margin: 0;
   padding: 0;
 }
+
 html,
 body {
   height: 100%;
@@ -27,14 +28,17 @@ body {
   font-family: "acumin-variable", sans-serif;
   font-variation-settings: "slnt" 0, "wdth" 100, "wght" 300;
 }
+
 body {
   background-color: #f7f6f6;
   position: relative;
   background-color: var(--palette-main-light);
 }
+
 hr {
   width: 80%;
 }
+
 h1,
 h2 {
   text-align: center;
@@ -77,6 +81,13 @@ blockquote {
   align-items: center;
 }
 
+ul {
+  padding: 2%;
+  line-height: 2em;
+  text-align: start;
+  background-color: var(--palette-bg-light);
+}
+
 li {
   list-style-type: decimal;
   text-align: start;
@@ -87,14 +98,19 @@ a {
 }
 
 p {
+  padding: 2%;
   line-height: 2em;
   text-align: start;
   background-color: var(--palette-bg-light);
+}
+img{
+  border: #011fde 2px solid;
 }
 figure {
   padding: 0;
   margin: 0;
 }
+
 figcaption {
   color: rgba(0, 0, 0, 0.6);
   font-size: 12px;
@@ -183,6 +199,10 @@ li a {
   align-items: center;
   height: 100%;
   color: #011fde;
+}
+
+#indexCenter {
+  text-align: center;
 }
 
 .brdCrmbTrl {

@@ -8,20 +8,20 @@ include $path . "assets/inc/header.php";
     <div class="main-side">
         <div class="container">
             <h2>Links to downloads</h2>
-            <ul>
-                <li>Ubuntu: Canonical Ltd. (n.d.). Download Ubuntu Desktop. Ubuntu. Retrieved from <a href="https://ubuntu.com/download/desktop
+
+            <p>1. Ubuntu: Canonical Ltd. (n.d.). Download Ubuntu Desktop. Ubuntu. Retrieved from <a href="https://ubuntu.com/download/desktop
 ">https://ubuntu.com/download/desktop
-                    </a></li>
-                <li>Mint: Linux Mint. (n.d.). Download Linux Mint. Linux Mint. Retrieved from <a href="https://www.linuxmint.com/download.php
+                </a></p>
+            <p>2. Mint: Linux Mint. (n.d.). Download Linux Mint. Linux Mint. Retrieved from <a href="https://www.linuxmint.com/download.php
 ">https://www.linuxmint.com/download.php
-                    </a></li>
-                <li>Debian: The Debian Project. (n.d.). Download Debian. Debian. Retrieved from <a href="https://www.debian.org/distrib/
+                </a></p>
+            <p>3. Debian: The Debian Project. (n.d.). Download Debian. Debian. Retrieved from <a href="https://www.debian.org/distrib/
 ">https://www.debian.org/distrib/
-                    </a></li>
-                <li>Etcher: Balena. (n.d.). Download Etcher. Etcher. Retrieved from <a href="https://etcher.download/
+                </a></p>
+            <p>4. Etcher: Balena. (n.d.). Download Etcher. Etcher. Retrieved from <a href="https://etcher.download/
 ">https://etcher.download/
-                    </a></li>
-            </ul>
+                </a></p>
+
         </div>
     </div>
     <div class="secondary-side padding">
@@ -72,10 +72,30 @@ include $path . "assets/inc/header.php";
                 <li>Unknown. (n.d.). USC Ubuntu 16.04 [Screenshot]. Retrieved May 2, 2023, from <a
                         href="https://3.bp.blogspot.com/-o2GBmgR14nQ/VwZ62lKLyUI/AAAAAAAAKA0/WxNb3d1Q10IT02VZR0KH5mYa0HszRKkKA/s1600/usc-ubuntu-1604.png">https://3.bp.blogspot.com/-o2GBmgR14nQ/VwZ62lKLyUI/AAAAAAAAKA0/WxNb3d1Q10IT02VZR0KH5mYa0HszRKkKA/s1600/usc-ubuntu-1604.png</a>
                 </li>
-                <li>Unknown. (2021, April 19). Comando APT Linux [Screenshot]. SoftZone. Retrieved May 2, 2023, from <a href="https://www.softzone.es/app/uploads-softzone.es/2021/04/Comando-APT-Linux-3.jpg">https://www.softzone.es/app/uploads-softzone.es/2021/04/Comando-APT-Linux-3.jpg</a></li>
-                <li>Unknown. (n.d.). Synaptic Package Manager on Ubuntu 16.04 [Screenshot]. TecMint. Retrieved May 2, 2023, from <a href="https://www.tecmint.com/wp-content/uploads/2016/03/Synaptic-Package-Manager-on-Ubuntu-16.04.png">https://www.tecmint.com/wp-content/uploads/2016/03/Synaptic-Package-Manager-on-Ubuntu-16.04.png</a></li>
+                <li>Unknown. (2021, April 19). Comando APT Linux [Screenshot]. SoftZone. Retrieved May 2, 2023, from <a
+                        href="https://www.softzone.es/app/uploads-softzone.es/2021/04/Comando-APT-Linux-3.jpg">https://www.softzone.es/app/uploads-softzone.es/2021/04/Comando-APT-Linux-3.jpg</a>
+                </li>
+                <li>Unknown. (n.d.). Synaptic Package Manager on Ubuntu 16.04 [Screenshot]. TecMint. Retrieved May 2,
+                    2023, from <a
+                        href="https://www.tecmint.com/wp-content/uploads/2016/03/Synaptic-Package-Manager-on-Ubuntu-16.04.png">https://www.tecmint.com/wp-content/uploads/2016/03/Synaptic-Package-Manager-on-Ubuntu-16.04.png</a>
+                </li>
 
-                <li>Damien. (2019, October 3). How to Install and Use Synaptic Package Manager on Linux. Make Tech Easier. Retrieved May 2, 2023, from <a href="https://www.maketecheasier.com/install-use-synaptic-package-manager-linux/">https://www.maketecheasier.com/install-use-synaptic-package-manager-linux/</a></li>
+                <li>Damien. (2019, October 3). How to Install and Use Synaptic Package Manager on Linux. Make Tech
+                    Easier. Retrieved May 2, 2023, from <a
+                        href="https://www.maketecheasier.com/install-use-synaptic-package-manager-linux/">https://www.maketecheasier.com/install-use-synaptic-package-manager-linux/</a>
+                </li>
+
+                <li>Unknown. (n.d.). FileZilla [Screenshot]. Retrieved May 2, 2023, from <a
+                        href="https://4.bp.blogspot.com/-KcPqTCoJQMM/VVSocxRE-9I/AAAAAAAALho/uK19S7KRBEQ/s1920/filezilla-2.jpg">https://4.bp.blogspot.com/-KcPqTCoJQMM/VVSocxRE-9I/AAAAAAAALho/uK19S7KRBEQ/s1920/filezilla-2.jpg</a>
+                </li>
+
+                <li>Unknown. (2021, July 15). Linux Security [Image]. Oracle Patches. Retrieved May 2, 2023, from <a
+                        href="https://oracle-patches.com/images/2021/07/15/Linux_security_large.jpeg">https://oracle-patches.com/images/2021/07/15/Linux_security_large.jpeg
+                        << /a>
+                </li>
+
+                <li>Unknown. (n.d.). Linux Security [Image]. LinuxSecurity. Retrieved May 2, 2023, from <a
+                        href="https://linuxsecurity.com/images/articles/security-projects/linux-security.jpg"></a></li>
             </ul>
         </div>
     </div>
